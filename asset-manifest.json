@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-PricingCard/static/css/main.26544e4a.chunk.css",
+    "main.js": "/React-PricingCard/static/js/main.7db0e79e.chunk.js",
+    "main.js.map": "/React-PricingCard/static/js/main.7db0e79e.chunk.js.map",
+    "runtime-main.js": "/React-PricingCard/static/js/runtime-main.c5c5d826.js",
+    "runtime-main.js.map": "/React-PricingCard/static/js/runtime-main.c5c5d826.js.map",
+    "static/js/2.f1427dcb.chunk.js": "/React-PricingCard/static/js/2.f1427dcb.chunk.js",
+    "static/js/2.f1427dcb.chunk.js.map": "/React-PricingCard/static/js/2.f1427dcb.chunk.js.map",
+    "index.html": "/React-PricingCard/index.html",
+    "static/css/main.26544e4a.chunk.css.map": "/React-PricingCard/static/css/main.26544e4a.chunk.css.map",
+    "static/js/2.f1427dcb.chunk.js.LICENSE.txt": "/React-PricingCard/static/js/2.f1427dcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5c5d826.js",
+    "static/js/2.f1427dcb.chunk.js",
+    "static/css/main.26544e4a.chunk.css",
+    "static/js/main.7db0e79e.chunk.js"
+  ]
+}
